@@ -20,7 +20,7 @@ While taking a strategic break from full-stack development, this portfolio demon
 alx-jupyter-notebooks/
 │
 ├── week_01_data_structures/
-│ └── GCC_Data_structures_types_student_version.ipynb
+│   └── GCC_Data_structures_types_student_version.ipynb
 │
 ├── .gitignore
 └── README.md
