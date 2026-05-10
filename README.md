@@ -35,7 +35,7 @@ text
 
 | Week | Topic | Notebook | Key Concepts |
 |------|-------|----------|---------------|
-| 01 | Data Structures & Types | [`GCC_Data_structures_types_student_version.ipynb`](week_01_data_structures/GCC_Data_structures_types_student_version.ipynb) | Dictionaries, nested lists, list multiplication, vehicle fleet management |
+| 01 | Data Structures & Types | [`GCC_Data_structures_types_student_version.ipynb`](week_1/GCC_Data_structures_types_student_version.ipynb) | Dictionaries, nested lists, list multiplication, vehicle fleet management |
 
 ---
 
